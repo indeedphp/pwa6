@@ -1,4 +1,4 @@
-const staticCacheName = 's-app-v1'
+const staticCacheName = 's-app-v9'
 
 const assetUrls = [
   'index.html',
